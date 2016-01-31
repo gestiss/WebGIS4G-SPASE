@@ -23,12 +23,14 @@ https://github.com/gestiss/
 GeoJSON/TopoJSON 形式でレポジトリに追加。GitHub上でウェブマップに自動的に切り替わります。背景は OpenStreetMap になります。
 
 - 二次元ウェブマップ
+
 https://github.com/gestiss/gsimaps4gestiss
 
 地理院地図(GSImaps)をベースとした gsimaps4gestiss レポジトリをForkし、任意のレイヤとしてデータレイヤを追加することで、ウェブマップシステムをカスタマイズ可能です。背景地図も任意に選べます。
 
 
 - 三次元ウェブマップ
+
 https://github.com/gestiss/cesiumGitHubPages4gestiss
 
 Google Earthライクな三次元表示を可能にするオープンソース描画エンジンCesiumJS の代表的な利用例である cesiumGitHubPages をベースとした cesiumGitHubPages4gestissレポジトリをForkし、任意のレイヤとしてデータレイヤを追加するなどカスタマイズ可能です。
